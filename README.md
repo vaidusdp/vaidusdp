@@ -33,10 +33,6 @@
 
    <img src="https://github-readme-stats-fast.vercel.app/api?username=vaidusdp&show_icons=true&theme=transparent" height="130"/>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vaidusdp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
-    height="165"
-  />
 
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=vaidusdp&theme=tokyonight&hide_border=true" 
