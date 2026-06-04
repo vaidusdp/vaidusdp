@@ -31,15 +31,15 @@
 
 <div align="center">
 
-   <img src="https://github-readme-stats-fast.vercel.app/api?username=vaidus2608m&show_icons=true&theme=transparent" height="130"/>
+   <img src="https://github-readme-stats-fast.vercel.app/api?username=vaidusdp&show_icons=true&theme=transparent" height="130"/>
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=vaidus2608m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=vaidusdp&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
     height="165"
   />
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=vaidus2608m&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vaidusdp&theme=tokyonight&hide_border=true" 
     height="165"
   />
 
@@ -50,7 +50,7 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=vaidus2608m&theme=tokyo-night&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vaidusdp&theme=tokyo-night&hide_border=true" 
     width="95%"
   />
 
