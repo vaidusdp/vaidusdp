@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hi, I'm Vaidus (aka Vexor)</h1>
+  <h1>👋 Hi, I'm Vaidus</h1>
   <h3>Full Stack Engineer & Competitive Programmer</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=450&height=40&lines=Building+Scalable+Full+Stack+Systems;Deep+Dive+DSA+%2B+Algorithmic+Rigor;Next.js+%2B+TypeScript+Ecosystems" alt="Typing Animation" />
